@@ -1,0 +1,4 @@
+$.toaster({title:"提示", priority : 'danger', message : '请输入正确的手机号码' });
+
+
+$.toaster({title:"提示", priority : 'success', message : '请输入正确的手机号码' });
